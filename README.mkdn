@@ -43,7 +43,7 @@ $ export GAPPS=""
 will create a standard vanilla build.
 
 # Build the code
-$ mka bacon
+$ m bacon
 ```
 
 
